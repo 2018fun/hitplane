@@ -1,0 +1,203 @@
+{
+	"groups": [
+		{
+			"keys": "load",
+			"name": "loading"
+		},
+		{
+			"keys": "tip_bg_png,gold_png,gas_png,frame_png,bg_png,miss_png,head_png,cover_png,body_png,plane_sheet,plane_jpg,help_png,rotation_jpg,btn_blue_png,btn_yellow_png,btn_red_png,btn_purple_png,btn_green_png,btn_gray_png",
+			"name": "scene"
+		},
+		{
+			"keys": "bullet_png,panel_png",
+			"name": "away_scene"
+		},
+		{
+			"keys": "ground_png,city_bg_png,city_control_png,view_airport_png,view_bank_png,view_defense_png,view_gas_station_png,view_insure_company_png,view_repair_factory_png,view_bullet_science_png",
+			"name": "city_scene"
+		},
+		{
+			"keys": "copy,description,shop",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/ui/tip_bg.png",
+			"type": "image",
+			"name": "tip_bg_png"
+		},
+		{
+			"url": "assets/city/ground.png",
+			"type": "image",
+			"name": "ground_png"
+		},
+		{
+			"url": "assets/city/city_bg.png",
+			"type": "image",
+			"name": "city_bg_png"
+		},
+		{
+			"url": "assets/city/city_control.png",
+			"type": "image",
+			"name": "city_control_png"
+		},
+		{
+			"url": "assets/away/panel.png",
+			"type": "image",
+			"name": "panel_png"
+		},
+		{
+			"url": "assets/away/bullet.png",
+			"type": "image",
+			"name": "bullet_png"
+		},
+		{
+			"url": "assets/game/help.png",
+			"type": "image",
+			"name": "help_png"
+		},
+		{
+			"url": "assets/game/rotation.jpg",
+			"type": "image",
+			"name": "rotation_jpg"
+		},
+		{
+			"url": "assets/game/plane.jpg",
+			"type": "image",
+			"name": "plane_jpg"
+		},
+		{
+			"url": "assets/game/cover.png",
+			"type": "image",
+			"name": "cover_png"
+		},
+		{
+			"url": "assets/game/miss.png",
+			"type": "image",
+			"name": "miss_png"
+		},
+		{
+			"url": "assets/game/body.png",
+			"type": "image",
+			"name": "body_png"
+		},
+		{
+			"url": "assets/game/head.png",
+			"type": "image",
+			"name": "head_png"
+		},
+		{
+			"url": "assets/game/plane.json",
+			"type": "sheet",
+			"name": "plane_sheet",
+			"subkeys": "D_0,D_1,D_2,D_3,D_4,D_5,D_6,D_7,D_8,D_H,L_0,L_1,L_2,L_3,L_4,L_5,L_6,L_7,L_8,L_H,R_0,R_1,R_2,R_3,R_4,R_5,R_6,R_7,R_8,R_H,U_0,U_1,U_2,U_3,U_4,U_5,U_6,U_7,U_8,U_H"
+		},
+		{
+			"url": "assets/ui/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "assets/ui/gold.png",
+			"type": "image",
+			"name": "gold_png"
+		},
+		{
+			"url": "assets/ui/gas.png",
+			"type": "image",
+			"name": "gas_png"
+		},
+		{
+			"url": "assets/ui/frame.png",
+			"type": "image",
+			"name": "frame_png"
+		},
+		{
+			"url": "config/copy.json",
+			"type": "json",
+			"name": "copy"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description"
+		},
+		{
+			"url": "config/shop.json",
+			"type": "json",
+			"name": "shop"
+		},
+		{
+			"url": "assets/load.json",
+			"type": "sheet",
+			"name": "load",
+			"subkeys": "pgBar,pgBg"
+		},
+		{
+			"url": "assets/city/airport.png",
+			"type": "image",
+			"name": "view_airport_png"
+		},
+		{
+			"url": "assets/city/bank.png",
+			"type": "image",
+			"name": "view_bank_png"
+		},
+		{
+			"url": "assets/city/defense.png",
+			"type": "image",
+			"name": "view_defense_png"
+		},
+		{
+			"url": "assets/city/gas_station.png",
+			"type": "image",
+			"name": "view_gas_station_png"
+		},
+		{
+			"url": "assets/city/insure_company.png",
+			"type": "image",
+			"name": "view_insure_company_png"
+		},
+		{
+			"url": "assets/city/repair_factory.png",
+			"type": "image",
+			"name": "view_repair_factory_png"
+		},
+		{
+			"url": "assets/city/bullet_science.png",
+			"type": "image",
+			"name": "view_bullet_science_png"
+		},
+		{
+			"url": "assets/ui/btn_blue.png",
+			"type": "image",
+			"name": "btn_blue_png"
+		},
+		{
+			"url": "assets/ui/btn_gray.png",
+			"type": "image",
+			"name": "btn_gray_png"
+		},
+		{
+			"url": "assets/ui/btn_green.png",
+			"type": "image",
+			"name": "btn_green_png"
+		},
+		{
+			"url": "assets/ui/btn_purple.png",
+			"type": "image",
+			"name": "btn_purple_png"
+		},
+		{
+			"url": "assets/ui/btn_red.png",
+			"type": "image",
+			"name": "btn_red_png"
+		},
+		{
+			"url": "assets/ui/btn_yellow.png",
+			"type": "image",
+			"name": "btn_yellow_png"
+		}
+	]
+}

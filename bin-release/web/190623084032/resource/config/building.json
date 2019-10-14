@@ -1,0 +1,469 @@
+{
+    "airport": [
+        {
+            "level": 1,
+            "name": "building_airport_1",
+            "cost": 10000,
+            "view": "view_airport_png",
+            "desc": "desc_airport_1",
+            "opponent": 3,
+            "opponent_level": 1
+        },
+        {
+            "level": 2,
+            "name": "building_airport_2",
+            "cost": 36000,
+            "view": "view_airport_2",
+            "desc": "desc_airport_2",
+            "opponent": 3,
+            "opponent_level": 3
+        },
+        {
+            "level": 3,
+            "name": "building_airport_3",
+            "cost": 96000,
+            "view": "view_airport_3",
+            "desc": "desc_airport_3",
+            "opponent": 5,
+            "opponent_level": 3
+        },
+        {
+            "level": 4,
+            "name": "building_airport_4",
+            "cost": 224000,
+            "view": "view_airport_4",
+            "desc": "desc_airport_4",
+            "opponent": 5,
+            "opponent_level": 5
+        },
+        {
+            "level": 5,
+            "name": "building_airport_5",
+            "cost": 480000,
+            "view": "view_airport_5",
+            "desc": "desc_airport_5",
+            "opponent": 7,
+            "opponent_level": 5
+        }
+    ],
+    "bank": [
+        {
+            "level": 1,
+            "name": "building_bank_1",
+            "view": "view_bank_png",
+            "desc": "desc_bank_1",
+            "cost": 10000,
+            "game_reward": 0.5,
+            "chest_reward": 2,
+            "vedio_reward": 10
+        },
+        {
+            "level": 2,
+            "name": "building_bank_2",
+            "view": "view_bank_2",
+            "desc": "desc_bank_2",
+            "cost": 36000,
+            "game_reward": 1.2,
+            "chest_reward": 5,
+            "vedio_reward": 20
+        },
+        {
+            "level": 3,
+            "name": "building_bank_3",
+            "view": "view_bank_3",
+            "desc": "desc_bank_3",
+            "cost": 96000,
+            "game_reward": 2.5,
+            "chest_reward": 10,
+            "vedio_reward": 40
+        },
+        {
+            "level": 4,
+            "name": "building_bank_4",
+            "view": "view_bank_4",
+            "desc": "desc_bank_4",
+            "cost": 224000,
+            "game_reward": 5,
+            "chest_reward": 20,
+            "vedio_reward": 80
+        },
+        {
+            "level": 5,
+            "name": "building_bank_5",
+            "view": "view_bank_5",
+            "desc": "desc_bank_5",
+            "cost": 480000,
+            "game_reward": 10,
+            "chest_reward": 40,
+            "vedio_reward": 150
+        }
+    ],
+    "bullet_science": [
+        {
+            "level": 1,
+            "name": "building_bullet_science_1",
+            "view": "view_bullet_science_png",
+            "desc": "desc_bullet_science_1",
+            "cost": 10000,
+            "first": 0.1,
+            "first_num": 0,
+            "then": 0.1,
+            "bullets": [
+                4
+            ]
+        },
+        {
+            "level": 2,
+            "name": "building_bullet_science_2",
+            "view": "view_bullet_science_2",
+            "desc": "desc_bullet_science_2",
+            "cost": 36000,
+            "first": 0.15,
+            "first_num": 0,
+            "then": 0.15,
+            "bullets": [
+                4,
+                1
+            ]
+        },
+        {
+            "level": 3,
+            "name": "building_bullet_science_3",
+            "view": "view_bullet_science_3",
+            "desc": "desc_bullet_science_3",
+            "cost": 96000,
+            "first": 0.25,
+            "first_num": 3,
+            "then": 0.15,
+            "bullets": [
+                4,
+                1,
+                7
+            ]
+        },
+        {
+            "level": 4,
+            "name": "building_bullet_science_4",
+            "view": "view_bullet_science_4",
+            "desc": "desc_bullet_science_4",
+            "cost": 224000,
+            "first": 0.5,
+            "first_num": 3,
+            "then": 0.2,
+            "bullets": [
+                4,
+                1,
+                7,
+                6
+            ]
+        },
+        {
+            "level": 5,
+            "name": "building_bullet_science_5",
+            "view": "view_bullet_science_5",
+            "desc": "desc_bullet_science_5",
+            "cost": 480000,
+            "first": 0.5,
+            "first_num": 5,
+            "then": 0.2,
+            "bullets": [
+                4,
+                1,
+                7,
+                6,
+                2,
+                3
+            ]
+        }
+    ],
+    "gas_station": [
+        {
+            "level": 1,
+            "name": "building_gas_station_1",
+            "view": "view_gas_station_png",
+            "desc": "desc_gas_station_1",
+            "cost": 10000,
+            "mph": 8,
+            "max": 100,
+            "vedio_reward": 0.1
+        },
+        {
+            "level": 2,
+            "name": "building_gas_station_2",
+            "view": "view_gas_station_2",
+            "desc": "desc_gas_station_2",
+            "cost": 36000,
+            "mph": 15,
+            "max": 180,
+            "vedio_reward": 0.2
+        },
+        {
+            "level": 3,
+            "name": "building_gas_station_3",
+            "view": "view_gas_station_3",
+            "desc": "desc_gas_station_3",
+            "cost": 96000,
+            "mph": 25,
+            "max": 300,
+            "vedio_reward": 0.5
+        },
+        {
+            "level": 4,
+            "name": "building_gas_station_4",
+            "view": "view_gas_station_4",
+            "desc": "desc_gas_station_4",
+            "cost": 22400,
+            "mph": 50,
+            "max": 500,
+            "vedio_reward": 1.2
+        },
+        {
+            "level": 5,
+            "name": "building_gas_station_5",
+            "view": "view_gas_station_5",
+            "desc": "desc_gas_station_5",
+            "cost": 480000,
+            "mph": 100,
+            "max": 800,
+            "vedio_reward": 2.5
+        }
+    ],
+    "repair_factory": [
+        {
+            "level": 1,
+            "name": "building_repair_factory_1",
+            "view": "view_repair_factory_png",
+            "desc": "desc_repair_factory_1",
+            "cost": 10000,
+            "mph": 8,
+            "repair_cost": 50
+        },
+        {
+            "level": 2,
+            "name": "building_repair_factory_2",
+            "view": "view_repair_factory_2",
+            "desc": "desc_repair_factory_2",
+            "cost": 36000,
+            "mph": 15,
+            "max": 90
+        },
+        {
+            "level": 3,
+            "name": "building_repair_factory_3",
+            "view": "view_repair_factory_3",
+            "desc": "desc_repair_factory_3",
+            "cost": 96000,
+            "mph": 30,
+            "max": 150
+        },
+        {
+            "level": 4,
+            "name": "building_repair_factory_4",
+            "view": "view_repair_factory_4",
+            "desc": "desc_repair_factory_4",
+            "cost": 22400,
+            "mph": 50,
+            "max": 240
+        },
+        {
+            "level": 5,
+            "name": "building_repair_factory_5",
+            "view": "view_repair_factory_5",
+            "desc": "desc_repair_factory_5",
+            "cost": 480000,
+            "mph": 100,
+            "max": 400
+        }
+    ],
+    "insure_company": [
+        {
+            "level": 1,
+            "name": "building_insure_company_1",
+            "view": "view_insure_company_png",
+            "desc": "desc_insure_company_1",
+            "cost": 10000,
+            "duration": 5,
+            "building": 1,
+            "paid": 1
+        },
+        {
+            "level": 2,
+            "name": "building_insure_company_2",
+            "view": "view_insure_company_2",
+            "desc": "desc_insure_company_2",
+            "cost": 36000,
+            "duration": 5,
+            "building": 2,
+            "paid": 2
+        },
+        {
+            "level": 3,
+            "name": "building_insure_company_3",
+            "view": "view_insure_company_3",
+            "desc": "desc_insure_company_3",
+            "cost": 96000,
+            "duration": 7,
+            "building": 2,
+            "paid": 3
+        },
+        {
+            "level": 4,
+            "name": "building_insure_company_4",
+            "view": "view_insure_company_4",
+            "desc": "desc_insure_company_4",
+            "duration": 7,
+            "building": 3,
+            "paid": 4
+        },
+        {
+            "level": 5,
+            "name": "building_insure_company_5",
+            "view": "view_insure_company_5",
+            "desc": "desc_insure_company_5",
+            "cost": 480000,
+            "duration": 10,
+            "building": 3,
+            "paid": 5
+        }
+    ],
+    "defense": [
+        {
+            "level": 1,
+            "name": "building_defense_1",
+            "view": "view_defense_png",
+            "desc": "desc_defense_1",
+            "cost": 10000,
+            "missle": 1
+        },
+        {
+            "level": 2,
+            "name": "building_defense_2",
+            "view": "view_defense_2",
+            "desc": "desc_defense_2",
+            "cost": 36000,
+            "missle": 2
+        },
+        {
+            "level": 3,
+            "name": "building_defense_3",
+            "view": "view_defense_3",
+            "desc": "desc_defense_3",
+            "cost": 96000,
+            "missle": 3
+        },
+        {
+            "level": 4,
+            "name": "building_defense_4",
+            "view": "view_defense_4",
+            "desc": "desc_defense_4",
+            "missle": 4
+        },
+        {
+            "level": 5,
+            "name": "building_defense_5",
+            "view": "view_defense_5",
+            "desc": "desc_defense_5",
+            "cost": 480000,
+            "missle": 5
+        }
+    ],
+    "strategy_center": [
+        {
+            "level": 1,
+            "name": "building_strategy_center_1",
+            "view": "view_strategy_center_1",
+            "desc": "desc_strategy_center_1",
+            "cost": 10000,
+            "duration": 5,
+            "building": 1,
+            "paid": 1
+        },
+        {
+            "level": 2,
+            "name": "building_strategy_center_1",
+            "view": "view_strategy_center_1",
+            "desc": "desc_strategy_center_1",
+            "cost": 10000,
+            "duration": 5,
+            "building": 1,
+            "paid": 1
+        },
+        {
+            "level": 3,
+            "name": "building_strategy_center_1",
+            "view": "view_strategy_center_1",
+            "desc": "desc_strategy_center_1",
+            "cost": 10000,
+            "duration": 5,
+            "building": 1,
+            "paid": 1
+        },
+        {
+            "level": 4,
+            "name": "building_strategy_center_1",
+            "view": "view_strategy_center_1",
+            "desc": "desc_strategy_center_1",
+            "cost": 10000,
+            "duration": 5,
+            "building": 1,
+            "paid": 1
+        },
+        {
+            "level": 5,
+            "name": "building_strategy_center_1",
+            "view": "view_strategy_center_1",
+            "desc": "desc_strategy_center_1",
+            "cost": 10000,
+            "duration": 5,
+            "building": 1,
+            "paid": 1
+        }
+    ],
+    "advertise_company": [
+        {
+            "level": 1,
+            "name": "building_advertise_company_1",
+            "view": "view_advertise_company_png",
+            "desc": "desc_advertise_company_1",
+            "cost": 10000,
+            "earn": 5000,
+            "appear": 10
+        },
+        {
+            "level": 2,
+            "name": "building_advertise_company_1",
+            "view": "view_advertise_company_1",
+            "desc": "desc_advertise_company_1",
+            "cost": 36000,
+            "earn": 8000,
+            "appear": 10
+        },
+        {
+            "level": 3,
+            "name": "building_advertise_company_1",
+            "view": "view_advertise_company_1",
+            "desc": "desc_advertise_company_1",
+            "cost": 96000,
+            "earn": 15000,
+            "appear": 8
+        },
+        {
+            "level": 4,
+            "name": "building_advertise_company_1",
+            "view": "view_advertise_company_1",
+            "desc": "desc_advertise_company_1",
+            "cost": 224000,
+            "earn": 25000,
+            "appear": 8
+        },
+        {
+            "level": 5,
+            "name": "building_advertise_company_1",
+            "view": "view_advertise_company_1",
+            "desc": "desc_advertise_company_1",
+            "cost": 480000,
+            "earn": 45000,
+            "appear": 5
+        }
+    ]
+}

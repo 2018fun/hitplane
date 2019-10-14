@@ -1,0 +1,32 @@
+{
+  "engineVersion": "5.2.21",
+  "compilerVersion": "5.2.21",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "promise"
+    }
+  ],
+  "targets": {
+    "ios": {
+      "appname": "hitplane",
+      "packagename": "fun.2018",
+      "hybrid": false
+    }
+  }
+}

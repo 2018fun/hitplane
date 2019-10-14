@@ -1,0 +1,80 @@
+{
+    "groups": [
+        {
+            "name": "animate",
+            "keys": "airport_json,bank_json,defense_json,gas_station_json,insure_company_json,repair_factory_json,bullet_sciense_json,airport_png,bank_png,defense_png,gas_station_png,insure_company_png,repair_factory_png,bullet_sciense_png"
+        }
+    ],
+    "resources": [
+        {
+            "name": "airport_json",
+            "type": "json",
+            "url": "animate/airport.json"
+        },
+        {
+            "name": "bank_json",
+            "type": "json",
+            "url": "animate/bank.json"
+        },
+        {
+            "name": "defense_json",
+            "type": "json",
+            "url": "animate/defense.json"
+        },
+        {
+            "name": "gas_station_json",
+            "type": "json",
+            "url": "animate/gas_station.json"
+        },
+        {
+            "name": "insure_company_json",
+            "type": "json",
+            "url": "animate/insure_company.json"
+        },
+        {
+            "name": "repair_factory_json",
+            "type": "json",
+            "url": "animate/repair_factory.json"
+        },
+        {
+            "name": "bullet_sciense_json",
+            "type": "json",
+            "url": "animate/bullet_sciense.json"
+        },
+        {
+            "name": "airport_png",
+            "type": "image",
+            "url": "animate/airport.png"
+        },
+        {
+            "name": "bank_png",
+            "type": "image",
+            "url": "animate/bank.png"
+        },
+        {
+            "name": "defense_png",
+            "type": "image",
+            "url": "animate/defense.png"
+        },
+        {
+            "name": "gas_station_png",
+            "type": "image",
+            "url": "animate/gas_station.png"
+        },
+        {
+            "name": "insure_company_png",
+            "type": "image",
+            "url": "animate/insure_company.png"
+        },
+        {
+            "name": "repair_factory_png",
+            "type": "image",
+            "url": "animate/repair_factory.png"
+        },
+        {
+            "name": "bullet_sciense_png",
+            "type": "image",
+            "url": "animate/bullet_sciense.png"
+        }
+    ]
+}

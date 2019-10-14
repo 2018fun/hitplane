@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "a_png,b_png,c_png,fail_png,give_up_png,s_png,score_a_png,score_b_png,score_c_png,score_sss_png,sss_png,win_png",
+			"name": "result_scene"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/result/a.png",
+			"type": "image",
+			"name": "a_png"
+		},
+		{
+			"url": "assets/result/b.png",
+			"type": "image",
+			"name": "b_png"
+		},
+		{
+			"url": "assets/result/c.png",
+			"type": "image",
+			"name": "c_png"
+		},
+		{
+			"url": "assets/result/fail.png",
+			"type": "image",
+			"name": "fail_png"
+		},
+		{
+			"url": "assets/result/give_up.png",
+			"type": "image",
+			"name": "give_up_png"
+		},
+		{
+			"url": "assets/result/s.png",
+			"type": "image",
+			"name": "s_png"
+		},
+		{
+			"url": "assets/result/score_a.png",
+			"type": "image",
+			"name": "score_a_png"
+		},
+		{
+			"url": "assets/result/score_b.png",
+			"type": "image",
+			"name": "score_b_png"
+		},
+		{
+			"url": "assets/result/score_c.png",
+			"type": "image",
+			"name": "score_c_png"
+		},
+		{
+			"url": "assets/result/score_sss.png",
+			"type": "image",
+			"name": "score_sss_png"
+		},
+		{
+			"url": "assets/result/sss.png",
+			"type": "image",
+			"name": "sss_png"
+		},
+		{
+			"url": "assets/result/win.png",
+			"type": "image",
+			"name": "win_png"
+		}
+	]
+}

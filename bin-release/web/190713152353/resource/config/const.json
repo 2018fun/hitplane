@@ -1,0 +1,19 @@
+{
+    "initBuilings": [
+        0
+    ],
+    "initLevel": [
+        1
+    ],
+    "guideData": 0,
+    "unlockData": 0,
+    "maxBuilding": 7,
+    "initGold": 10000,
+    "initGasMax": 20,
+    "initGas": 10,
+    "guideScene": 0,
+    "firstScene": 1,
+    "winBullets": 20,
+    "baseHitReward": 1000,
+    "missleCost": 10000
+}

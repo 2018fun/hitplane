@@ -1,0 +1,46 @@
+{
+    "bullet": [
+        {
+            "name": "bullet_0",
+            "desc": "desc_bullet_0",
+            "view": "view_bullet_0",
+            "animate": "animate_bullet_0"
+        },
+        {
+            "name": "bullet_1",
+            "desc": "desc_bullet_1",
+            "view": "view_bullet_1",
+            "animate": "animate_bullet_1"
+        },
+        {
+            "name": "bullet_2",
+            "desc": "desc_bullet_2",
+            "view": "view_bullet_2",
+            "animate": "animate_bullet_2"
+        },
+        {
+            "name": "bullet_3",
+            "desc": "desc_bullet_3",
+            "view": "view_bullet_3",
+            "animate": "animate_bullet_3"
+        },
+        {
+            "name": "bullet_4",
+            "desc": "desc_bullet_4",
+            "view": "view_bullet_4",
+            "animate": "animate_bullet_4"
+        },
+        {
+            "name": "bullet_5",
+            "desc": "desc_bullet_5",
+            "view": "view_bullet_5",
+            "animate": "animate_bullet_5"
+        },
+        {
+            "name": "bullet_6",
+            "desc": "desc_bullet_6",
+            "view": "view_bullet_6",
+            "animate": "animate_bullet_6"
+        }
+    ]
+}

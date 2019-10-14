@@ -1,0 +1,40 @@
+{
+    "groups": [
+        {
+            "keys": "drop_mp3,fail_mp3,head_mp3,hit_mp3,miss_mp3,success_mp3",
+            "name": "sound"
+        }
+    ],
+    "resources": [
+        {
+            "url": "assets/sound/drop.m4a",
+            "type": "sound",
+            "name": "drop_mp3"
+        },
+        {
+            "url": "assets/sound/fail.m4a",
+            "type": "sound",
+            "name": "fail_mp3"
+        },
+        {
+            "url": "assets/sound/head.mp3",
+            "type": "sound",
+            "name": "head_mp3"
+        },
+        {
+            "url": "assets/sound/hit.mp3",
+            "type": "sound",
+            "name": "hit_mp3"
+        },
+        {
+            "url": "assets/sound/miss.mp3",
+            "type": "sound",
+            "name": "miss_mp3"
+        },
+        {
+            "url": "assets/sound/success.m4a",
+            "type": "sound",
+            "name": "success_mp3"
+        }
+    ]
+}

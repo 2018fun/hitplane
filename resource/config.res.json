@@ -1,0 +1,40 @@
+{
+    "groups": [
+        {
+            "name": "config",
+            "keys": "const_json,building_json,bullet_json,city_json,copy_json,shop_json,language_json"
+        }
+    ],
+    "resources": [
+        {
+            "name": "const_json",
+            "type": "json",
+            "url": "config/const.json"
+        },
+        {
+            "name": "building_json",
+            "type": "json",
+            "url": "config/building.json"
+        },
+        {
+            "name": "bullet_json",
+            "type": "json",
+            "url": "config/bullet.json"
+        },
+        {
+            "name": "city_json",
+            "type": "json",
+            "url": "config/city.json"
+        },
+        {
+            "name": "language_json",
+            "type": "json",
+            "url": "config/language.json"
+        },
+        {
+            "name": "shop_json",
+            "type": "json",
+            "url": "config/shop.json"
+        }
+    ]
+}

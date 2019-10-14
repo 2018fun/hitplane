@@ -1,0 +1,50 @@
+{
+    "groups": [
+        {
+            "name": "placing_scene",
+            "keys": "control_bg_png,map_bg_selected_png,map_bg_png,msg_png,new_map,random_plane_png,share_png,back_png"
+        }
+    ],
+    "resources": [
+        {
+            "name": "control_bg_png",
+            "type": "image",
+            "url": "assets/placing/control_bg.png"
+        },
+        {
+            "name": "map_bg_selected_png",
+            "type": "image",
+            "url": "assets/placing/map_bg_selected.png"
+        },
+        {
+            "name": "map_bg_png",
+            "type": "image",
+            "url": "assets/placing/map_bg.png"
+        },
+        {
+            "name": "msg_png",
+            "type": "image",
+            "url": "assets/placing/msg.png"
+        },
+        {
+            "name": "new_map",
+            "type": "image",
+            "url": "assets/placing/new_map.png"
+        },
+        {
+            "name": "random_plane_png",
+            "type": "image",
+            "url": "assets/placing/random_plane.png"
+        },
+        {
+            "name": "share_png",
+            "type": "image",
+            "url": "assets/placing/share.png"
+        },
+        {
+            "name": "back_png",
+            "type": "image",
+            "url": "assets/placing/back.png"
+        }
+    ]
+}

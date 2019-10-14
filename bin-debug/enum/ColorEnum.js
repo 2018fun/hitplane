@@ -1,0 +1,21 @@
+var ColorEnum;
+(function (ColorEnum) {
+    ColorEnum.DARK_BLUE = 0x668BFE;
+    ColorEnum.BLUE = 0x3FBEFE;
+    ColorEnum.NATTIER_BLUE = 0x1ebffa;
+    ColorEnum.CYAN = 0x24DDB9;
+    ColorEnum.GREEN = 0x0FBE1F;
+    ColorEnum.YELLOW = 0xFAEF70;
+    ColorEnum.ORANGE = 0xFDAE43;
+    ColorEnum.RED = 0xFD8551;
+    ColorEnum.PINK = 0xFC4E77;
+    ColorEnum.PURPLE = 0xF469FC;
+    ColorEnum.GRAY = 0xBFBFBF;
+    ColorEnum.WHITE = 0xFFFFFF;
+    // export const DARK_BLUE = ;
+    // export const DARK_BLUE = ;
+    // export const DARK_BLUE = ;
+    // export const DARK_BLUE = ;
+    ColorEnum.colorList = [ColorEnum.DARK_BLUE, ColorEnum.BLUE, ColorEnum.CYAN, ColorEnum.GREEN, ColorEnum.YELLOW, ColorEnum.ORANGE, ColorEnum.RED, ColorEnum.PINK, ColorEnum.PURPLE, ColorEnum.GRAY];
+    ColorEnum.colorOrder = [ColorEnum.BLUE, ColorEnum.PURPLE, ColorEnum.RED, ColorEnum.GREEN, ColorEnum.ORANGE, ColorEnum.PINK];
+})(ColorEnum || (ColorEnum = {}));

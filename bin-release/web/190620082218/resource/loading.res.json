@@ -1,0 +1,25 @@
+{
+	"groups": [
+		{
+			"keys": "cloud3_png,cloud1_png,cloud2_png",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/loading/cloud1.png",
+			"type": "image",
+			"name": "cloud1_png"
+		},
+		{
+			"url": "assets/loading/cloud2.png",
+			"type": "image",
+			"name": "cloud2_png"
+		},
+		{
+			"url": "assets/loading/cloud3.png",
+			"type": "image",
+			"name": "cloud3_png"
+		}
+	]
+}

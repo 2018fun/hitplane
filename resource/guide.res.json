@@ -1,0 +1,65 @@
+{
+	"groups": [
+		{
+			"name": "guide_res",
+			"keys": "guide_board_png,guide_bg_png,guide_1_png,guide_2_png,guide_3_png,guide_4_png,guide_5_png,guide_6_png,guide_7_png,guide_8_png,guide_9_png,guide_21_png,guide_22_png"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/guide/guide_bg.png",
+			"type": "image",
+			"name": "guide_bg_png"
+		},
+		{
+			"url": "assets/guide/guide_1.png",
+			"type": "image",
+			"name": "guide_1_png"
+		},
+		{
+			"url": "assets/guide/guide_3.png",
+			"type": "image",
+			"name": "guide_3_png"
+		},
+		{
+			"url": "assets/guide/guide_2.png",
+			"type": "image",
+			"name": "guide_2_png"
+		},
+		{
+			"url": "assets/guide/guide_4.png",
+			"type": "image",
+			"name": "guide_4_png"
+		},
+		{
+			"url": "assets/guide/guide_5.png",
+			"type": "image",
+			"name": "guide_5_png"
+		},
+		{
+			"url": "assets/guide/guide_6.png",
+			"type": "image",
+			"name": "guide_6_png"
+		},
+		{
+			"url": "assets/guide/guide_7.png",
+			"type": "image",
+			"name": "guide_7_png"
+		},
+		{
+			"url": "assets/guide/guide_21.png",
+			"type": "image",
+			"name": "guide_21_png"
+		},
+		{
+			"url": "assets/guide/guide_22.png",
+			"type": "image",
+			"name": "guide_22_png"
+		},
+		{
+			"url": "assets/guide/guide_board.png",
+			"type": "image",
+			"name": "guide_board_png"
+		}
+	]
+}
